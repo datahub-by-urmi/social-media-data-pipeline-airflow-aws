@@ -1,2 +1,5 @@
-# social-media-data-pipeline-airflow-aws
-Built an automated social media data pipeline using **Python, Apache Airflow, and AWS**. Extracted data from the Twitter API, orchestrated data ingestion workflows with Airflow hosted on Amazon EC2, and stored the extracted data in Amazon S3 for further processing and analysis.
+
+🚀 **Upcoming Project: Social Media Data Pipeline Using Airflow & AWS**
+
+This project focuses on building an automated data pipeline using **Python, Apache Airflow, Amazon EC2, and Amazon S3** to extract social media data through an API, orchestrate workflows, and store data in the cloud.
+
